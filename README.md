@@ -38,4 +38,12 @@ I'm a passionate developer exploring web development, open-source, and new techn
 
 ## 🤝 Let's Connect!
 Check out my repos, contribute, or reach out! Open to opportunities!  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gib-Dev&show_icons=true&theme=dark)
+## 📈 GitHub Activity
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gib-Dev&layout=compact&theme=dark&hide_border=true)
+
+*Building skills one commit at a time* 🚀
+
+</div>
