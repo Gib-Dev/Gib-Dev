@@ -18,7 +18,7 @@ I'm a passionate developer exploring web development, open-source, and new techn
 
 ### Backend Development
 - **Node.js**: Server-side JavaScript with Express and middleware.
-- **C#**: 75% Object-oriented programming with .NET Core.
+- **C#**: Object-oriented programming with .NET Core.
 - **Prisma**: Type-safe database client and migrations.
 - **MongoDB**: NoSQL database design and aggregation.
 
