@@ -17,14 +17,14 @@ I'm a passionate developer exploring web development, open-source, and new techn
 - **Bootstrap**: Popular CSS framework for responsive design.
 
 ### Backend Development
-- **Node.js**: 80% - Server-side JavaScript with Express and middleware.
-- **C#**: 75% - Object-oriented programming with .NET Core.
-- **Prisma**: 75% - Type-safe database client and migrations.
-- **MongoDB**: 65% - NoSQL database design and aggregation.
+- **Node.js**: Server-side JavaScript with Express and middleware.
+- **C#**: 75% Object-oriented programming with .NET Core.
+- **Prisma**: Type-safe database client and migrations.
+- **MongoDB**: NoSQL database design and aggregation.
 
 ### CMS & Web Platforms
-- **WordPress**: 80% - Custom themes, plugins, and site management.
-- **Drupal**: 65% - Site building, module integration, and content management.
+- **WordPress**: Custom themes, plugins, and site management.
+- **Drupal**: Site building, module integration, and content management.
 
 ### Tools & Deployment
 - **Git/GitHub**: Version control, collaboration, and CI/CD workflows.
