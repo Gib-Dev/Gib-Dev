@@ -1,49 +1,73 @@
-# 👋 Welcome to My GitHub, I'm Magib Biteye!
-I'm a passionate developer exploring web development, open-source, and new technologies. Based in Ottawa, Canada, I’m bilingual (EN/FR), with basic ES, and eager to collaborate!
+  # Magib Biteye
+                                                                                                          Full-stack developer specializing in modern web applications with React, Next.js, and TypeScript.     
+  Based in Ottawa, Canada.
 
-## 🚀 About Me
-- 🎓 **Education**: Computer Programming Diploma.
-- 💻 **Interests**: Web development, open-source contributions, workout, video games.
-- 🌍 **Location**: Ottawa, Canada.
-- 📧 **Contact**: [magib.biteye@gmail.com](mailto:magib.biteye@gmail.com) | [Portfolio](https://magib-portfolio.vercel.app)
+  **Portfolio**: [magib-portfolio.vercel.app](https://magib-portfolio.vercel.app)  
+  **Contact**: [magib.biteye@gmail.com](mailto:magib.biteye@gmail.com)  
+  **Languages**: English, French (bilingual), Spanish (basic)
 
-## 💻 Skills
-### Frontend Development
-- **React**: Advanced state management, hooks, component architecture.
-- **Next.js**: Full-stack framework with SSR, SSG, and API routes.
-- **TypeScript**: Type-safe development with advanced features.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **HTML/CSS**: Semantic markup and responsive design principles.
-- **Bootstrap**: Popular CSS framework for responsive design.
+  ---
 
-### Backend Development
-- **Node.js**: Server-side JavaScript with Express and middleware.
-- **C#**: Object-oriented programming with .NET Core.
-- **Prisma**: Type-safe database client and migrations.
-- **MongoDB**: NoSQL database design and aggregation.
+  ## Technical Expertise
 
-### CMS & Web Platforms
-- **WordPress**: Custom themes, plugins, and site management.
-- **Drupal**: Site building, module integration, and content management.
+  ### Frontend Development
+  - **React**: Advanced state management, custom hooks, component architecture, performance optimization
+  - **Next.js**: App Router, Server Components, SSR/SSG, API routes, middleware
+  - **TypeScript**: Type-safe development, advanced types, strict mode
+  - **Tailwind CSS**: Utility-first styling, custom design systems, responsive design
+  - **Framer Motion**: Complex animations, gesture interactions, layout transitions
+  - **HTML/CSS**: Semantic markup, accessibility standards, modern CSS features
 
-### Tools & Deployment
-- **Git/GitHub**: Version control, collaboration, and CI/CD workflows.
-- **Jira**: Agile project management and issue tracking.
-- **Framer Motion**: Advanced animations and micro-interactions.
-- **Database Design**: Schema design, optimization, and data modeling.
-  
-## 🌱 Learning
-- Exploring advanced web dev tools and techniques.
-- Open to contributions and feedback!
+  ### Backend Development
+  - **Node.js**: Express, middleware architecture, RESTful APIs, authentication
+  - **C#**: Object-oriented programming, .NET Core, ASP.NET
+  - **Prisma**: Type-safe ORM, schema design, migrations, query optimization
+  - **MongoDB**: Schema design, aggregation pipelines, indexing strategies
 
-## 🤝 Let's Connect!
-Check out my repos, contribute, or reach out! Open to opportunities!  
-## 📈 GitHub Activity
+  ### Content Management
+  - **WordPress**: Custom theme development, plugin architecture, REST API integration
+  - **Drupal**: Module development, content architecture, site building
 
-<div align="center">
+  ### Tools & Workflow
+  - **Git/GitHub**: Version control, branching strategies, code review, CI/CD
+  - **Jira**: Agile methodology, sprint planning, issue tracking
+  - **Vercel**: Deployment, edge functions, analytics
+  - **Database Design**: Relational and NoSQL schema design, normalization, optimization
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gib-Dev&layout=compact&theme=dark&hide_border=true)
+  ---
 
-*Building skills one commit at a time* 🚀
+  ## Featured Projects
 
-</div>
+  **SwingAdmin** — Golf Tournament Management System
+  Full-stack SaaS platform with Stripe payments, bilingual support (EN/FR), and comprehensive test      
+  coverage.
+  *Next.js 16, TypeScript, Prisma, Stripe, Vitest (180 tests)*
+
+  **Portfolio** — Personal website showcasing full-stack capabilities
+  Performance-optimized, accessible, and fully responsive with dark-mode design.
+  *Next.js 15, React 19, TypeScript, Tailwind CSS, Framer Motion*
+
+  View all projects: [magib-portfolio.vercel.app/projects](https://magib-portfolio.vercel.app/projects) 
+
+  ---
+
+  ## GitHub Activity
+
+  <div align="center">
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gib-Dev&layout=compact
+  &theme=dark&hide_border=true)
+
+  </div>
+
+  ---
+
+  ## Education
+
+  **Computer Programming Diploma**  
+  Focus on full-stack development, database design, and software engineering principles
+
+  ---
+
+  Open to collaboration on interesting projects. Reach out via [email](mailto:magib.biteye@gmail.com) or
+   connect on [LinkedIn](https://www.linkedin.com/in/magib-biteye/).
